@@ -1,0 +1,41 @@
+* {  padding: 0; margin: 0; }
+body { line-height: 1; }
+#debug1 {display: block; }
+fieldset,img { border: 0; }
+address,caption,cite,code,dfn,th,var { font-weight: normal; font-style: normal; }
+ol,ul,li { list-style: none; }
+caption,th { text-align: left; }
+h1,h2,h3,h4,h5,h6 { font-weight: normal; font-size: 100%; }
+q:before,q:after { content:''; }
+abbr,acronym { border: 0; }
+a { text-decoration: none; outline: none; }
+a span { cursor: pointer; }
+input, textarea, select { font-family: Arial,Arial, Helvetica, sans-serif; font-size: 12px; }
+.clearFix { clear: both; }
+.floatcontainer:after,.fc:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.floatcontainer,.fc {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .floatcontainer , *html .fc{height: 1%;}
+.floatcontainer,.fc {display: block;}
+/* End hide from IE-mac */
+/*
+     FILE ARCHIVED ON 11:33:38 Jun 14, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:39:55 Dec 03, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 830.719 (2)
+  CDXLines.iter: 21.501 (3)
+  captures_list: 100.048
+  PetaboxLoader3.resolve: 518.226 (2)
+  exclusion.robots.policy: 0.177
+  exclusion.robots: 0.188
+  esindex: 0.014
+  PetaboxLoader3.datanode: 358.921 (5)
+  LoadShardBlock: 72.65 (3)
+  RedisCDXSource: 1.6
+*/
